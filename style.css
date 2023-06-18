@@ -1,0 +1,102 @@
+.table1{
+    width: 80%;
+    border: 1px solid lightblue;
+    margin: 10px 10px 10px 100px;
+}
+.table2{
+    width: 68%;
+    border: 1px solid lightblue;
+    margin: 0px 10px 10px 178px;
+    justify-content: center;
+}
+h1{
+    background-color: #ffff5d;
+    font-size: 100px;
+    margin: -10px 4px 27px 0px
+}
+
+td {
+    border: 1px solid lightblue;
+
+
+}
+
+body {
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+}
+.orange{
+    color: green;
+    background-color: orange;
+}
+.yellow{
+    background-color: rgb(238, 228, 86);
+}
+.yell{
+    color: brown;
+    background-color: rgb(238, 228, 86);
+
+}
+.yel{
+    color: blue;
+    background-color: rgb(238, 228, 86);
+
+}
+.lightpur{
+    color: blue;
+    background-color: plum;
+}
+.lightpurple{
+    background-color: plum;
+}
+.lightblue{
+    background-color: rgb(121, 156, 230);
+}
+.beige{
+    background-color:antiquewhite;
+
+}
+.beige2{
+    color: brown;
+    background-color:antiquewhite;
+}
+.white{
+    color: brown;
+    background-color: rgb(255, 255, 255);
+}
+.sky{
+    background-color: #d9e5ff;
+    color: rgb(22, 90, 22);
+}
+.bis{
+    background-color: #f1e17f85;
+    color: rgb(22, 90, 22);
+}
+
+.biss{
+    background-color: #f1e17f85;
+    color: blue;
+}
+
+.bissc{
+    background-color: #f1e17f85;
+}
+.lightgreen{
+    background-color:#cbec94;
+}
+.lightgreen2{
+    background-color: #cbec94;
+    color: blue;
+}
+.peach{
+    background-color:#ffa500e6;
+}
+
+.peach2{
+    background-color:#ffa500e6;
+    color: green;
+}
+.brown{
+    background-color: #c4ab36eb;
+}
